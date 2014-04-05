@@ -1,2 +1,4 @@
 Este es el archivo 1
 Hago el primer cambio
+
+Segundo cambio en el fichero
